@@ -6,7 +6,7 @@ The Blog Project is a Django application that provides RESTful API endpoints for
 
 ## Features
 
-- **User Authentication:** Uses JWT (JSON Web Token) authentication for secure access.
+- **User Authentication:** Uses JWT (JSON Web Token) authentication for secure access (register,login logout).
 - **Blog Management:** CRUD operations (Create, Read, Update, Delete) for blog posts.
 - **Search Functionality:** Allows searching blog posts by title or content.
 - **Pagination:** Supports pagination for listing blog posts.
