@@ -23,9 +23,8 @@ The Blog Project is a Django application that provides RESTful API endpoints for
 1. **Clone the Repository:**
 
     ```sh
-    git clone <repository-url>
-    cd Blog-Project
-    ```
+    git clone https://github.com/thisissagarthapa/Blog-Project.git
+    
 
 2. **Create a Virtual Environment:**
 
